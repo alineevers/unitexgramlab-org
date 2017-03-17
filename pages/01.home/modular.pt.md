@@ -1,7 +1,7 @@
 ---
 title: 'Unitex/GramLab'
-subtitle: 'Suíte Livre para Processamento de Corpus Textuais'
-menu: Início
+subtitle: 'SuÃ­te Livre para Processamento de Corpora Textuais'
+menu: InÃ­cio
 onpage_menu: true
 langswitcher: true
 content:
